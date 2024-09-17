@@ -1,5 +1,5 @@
 # Install the necessary libraries
-!pip install streamlit plotly
+#!pip install streamlit plotly
 
 import streamlit as st
 import plotly.express as px
